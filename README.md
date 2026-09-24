@@ -1,16 +1,16 @@
-## Hi there 👋
+## About Me
 
-<!--
-**striidko/striidko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sopo here,
 
-Here are some ideas to get you started:
+I collect interesting problems and learn whatever I need to solve them
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Computer Engineering student at San Diego State University
+- 🔧 Building stuff
+- 🔭 Always experimenting with something new
+
+
+📫 How to reach me:
+
+    sgobejishvili7100@sdsu.edu
+  
+  
